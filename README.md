@@ -7,3 +7,8 @@ In the DATA folder, there is course_data_clean.csv, which is a cleaned CSV file 
 
 ## Instructions for reproducing results
 To reproduce the results of the study, one should start by downloading the course_data_clean.csv file from https://www.kaggle.com/datasets/anthonysusevski/course-reviews-university-of-waterloo and loading it into a Pandas dataframe in Python. 
+
+1. Clone the repository into VS Code.
+2. Go into SCRIPTS folder into DS 4002 Project 1.ipynb folder
+3. pip install -- upgrade joblib
+4. pip install 
