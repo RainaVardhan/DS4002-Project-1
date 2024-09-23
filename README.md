@@ -1,4 +1,6 @@
 # DS4002-Project-1
-## Purpose
+## Software and platform
 
-## Contents of the repository
+## Map of documentation
+
+## Instructions for reproducing results
