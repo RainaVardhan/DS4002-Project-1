@@ -8,8 +8,11 @@ In the DATA folder, there is course_data_clean.csv, which is a cleaned CSV file 
 ## Instructions for reproducing results
 To reproduce the results of this study, follow the steps outlined below:
 
-1. Open Google Colab: Go to Google Colab and sign in using your Google account.
-2. Clone the repository and open the notebook: Open the DS 4002 Project 1.ipynb notebook, located in the SCRIPTS folder of the DS4002-Project-1 repository. To access it, clone the repository by writing the command !git clone https://github.com/RainaVardhan/DS4002-Project-1.git at the start of the script. This command will clone the entire repository with the course_data_clean.csv and stopwords copy.txt files. 
-3. Run the notebook: After uploading the notebook and loading the dataset, go to the navigation bar in Colab, click on Runtime, and select Run all to execute all cells. This will run the entire analysis pipeline, including data preprocessing, model building, and result generation.
-4. Review results: The notebook includes sections for data exploration, preprocessing, model training, and evaluation. Pay attention to any outputs, plots, or model performance metrics generated during the execution of the cells. For further analysis, you can modify or rerun specific cells to experiment with different models or parameters.
-5. Save the results: Once the notebook finishes running, save the results (plots, metrics, etc.) by downloading them locally or saving them to your Google Drive.
+1. Navigate to Google Colab and sign in with your Google account.
+2. In the Colab interface, click on File in the top navigation bar, then select Open Notebook.
+3. In the popup titled "Open Notebook," find the left-hand navigation bar and click on the GitHub tab.
+4. In the search bar, enter the username RainaVardhan. In the Repository field, select RainaVardhan/DS4002-Project-1.
+5. Open the file located at SCRIPTS/DS_PROJECT_1.ipynb.
+6. After the file opens, go to Runtime in the menu and select Run all to execute all the cells. This will run the entire analysis process, including data preprocessing, model building, and result generation.
+7. The notebook contains sections for data exploration, preprocessing, model training, and evaluation. Review the outputs, plots, and performance metrics generated. You can also modify or rerun specific cells to test different models or parameters.
+8.  Once the notebook finishes running, save the results (such as plots and metrics) by downloading them locally or saving them to your Google Drive.
