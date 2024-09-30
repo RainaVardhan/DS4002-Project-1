@@ -1,12 +1,15 @@
 # Exploring Main Topics in Student Course Reviews at Waterloo University
 
-## Map of documentation
-1. In the DATA folder, there is course_data_clean.csv, which is a cleaned CSV file of our dataset. There is also stopwords copy.txt, which contains all the stopwords we used for topic modeling.
-2. In the SCRIPTS folder, there is DS 4002 Project 1.ipynb, which includes all of our source code for loading and cleaning the data, as well as topic modeling.
-3. In the OUTPUT folder, there are plots that were produced from initial EDA of our dataset.
+## Contents
+1. DATA folder: Contains course_data_clean.csv, a cleaned version of our dataset, and stopwords copy.txt, which lists the stopwords used for topic modeling.
+2. SCRIPTS folder: Includes DS 4002 Project 1.ipynb, which holds all the source code for data loading, cleaning, and topic modeling.
+3. OUTPUT folder: Contains plots generated during the initial exploratory data analysis (EDA) of the dataset.
 
 ## Software and platform
 For the project, we used Python and the additional operator, joblib, numpy, pandas, scikit-learn, and matplotlib libraries. Each of our group members used Mac platforms.
+
+## Map of Documentation
+In the DATA folder, there is course_data_clean.csv, which is a cleaned CSV file of our dataset. There is also stopwords copy.txt, which contains all the stopwords we used for topic modeling. In the SCRIPTS folder, there is DS 4002 Project 1.ipynb, which includes all of our source code for loading and cleaning the data, as well as topic modeling. In the OUTPUT folder, there are plots that were produced from initial EDA of our dataset.
 
 
 ## Instructions for reproducing results
